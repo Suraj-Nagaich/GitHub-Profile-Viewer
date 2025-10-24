@@ -56,4 +56,3 @@ const getRepos=async(API_URL,username)=>{
     repos.appendChild(element);
 })
 }
-
